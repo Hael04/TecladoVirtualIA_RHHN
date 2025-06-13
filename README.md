@@ -5,7 +5,6 @@ Este proyecto muestra un prototipo de teclado virtual controlado con los dedos m
 ## 📁 Estructura
 
 - `model/`: contiene el modelo LSTM entrenado y el tokenizador.
-- `sounds/`: sonido de tecla (`tecla.wav`).
 - `src/`: archivos Python del prototipo y el entrenamiento.
 
 ## ⚙️ Requisitos
